@@ -7,21 +7,21 @@ This project represents Homework #1 for Group #2 for the Encode Club EVM Bootcam
 
 ## Members of Group 2
 
-    [ExqPpl](./users/ExqPpl/) - @Kai
-    [tJnNuQ](./users/tJnNuQ/) - @xiaodragon9589
-    [R9dhTD](./users/R9dhTD/) - @Brian Blank
-    [DAaJDn](./users/DAaJDn/) - @💫StarfleetCommand💫
-    [lofjwH](./users/lofjwH/) - @zzlovecoffee
-    [Mn8EN0](./users/Mn8EN0/) - @ethalorian | KEEZ
-    [HPJ2do](./users/HPJ2do/) - @DiegoB
+    [ExqPpl](./users/ExqPpl/README.md) - @Kai
+    [tJnNuQ](./users/tJnNuQ/README.md) - @xiaodragon9589
+    [R9dhTD](./users/R9dhTD/README.md) - @Brian Blank
+    [DAaJDn](./users/DAaJDn/README.md) - @💫StarfleetCommand💫
+    [lofjwH](./users/lofjwH/README.md) - @zzlovecoffee
+    [Mn8EN0](./users/Mn8EN0/README.md) - @ethalorian | KEEZ
+    [HPJ2do](./users/HPJ2do/README.md) - @DiegoB
 
 ## Contract Information
 
 For this project, we are leveraging the contract provided by the instructor.  Here is the [link to the source code](./scripts/HelloWorld.sol).
 
-The contract was deployed via transaction [0x4537bb7da871ea42111232bce500b874deeb1fed916f54316e59b16b8c77ee31](https://sepolia.etherscan.io/tx/0x4537bb7da871ea42111232bce500b874deeb1fed916f54316e59b16b8c77ee31)
+The contract was deployed via transaction [0x4537bb7da871ea42111232bce500b874deeb1fed916f54316e59b16b8c77ee31](https://sepolia.etherscan.io/tx/0x4537bb7da871ea42111232bce500b874deeb1fed916f54316e59b16b8c77ee31).
 
-The Smart Contract Address is [0x9cde9097fa2d1c93a0971029e1ab5f93c7898fa3](https://sepolia.etherscan.io/address/0x9cde9097fa2d1c93a0971029e1ab5f93c7898fa3)
+The Smart Contract Address is [0x9cde9097fa2d1c93a0971029e1ab5f93c7898fa3](https://sepolia.etherscan.io/address/0x9cde9097fa2d1c93a0971029e1ab5f93c7898fa3).
 
 ## Deployment Process
 
